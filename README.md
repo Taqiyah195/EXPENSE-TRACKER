@@ -1,0 +1,1 @@
+The Vehicle Management System is a Java program that uses Object-Oriented Programming concepts to model vehicles like Car and Bike. It demonstrates inheritance and polymorphism by using a base class (Vehicle) and derived classes. The program performs basic operations such as start, stop, refuel, and display vehicle details.
